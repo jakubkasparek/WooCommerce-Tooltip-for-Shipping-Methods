@@ -16,7 +16,7 @@ This code adds a tooltip next to each shipping option in the WooCommerce checkou
 
 ## Screenshot
 
-![Tooltip Example](path/to/your/screenshot.png)
+![Tooltip Example](WooCommerce Tooltip for Shipping Methods_screenhot.png)
 
 > **Note**: Replace `path/to/your/screenshot.png` with the actual path to your screenshot file.
 
