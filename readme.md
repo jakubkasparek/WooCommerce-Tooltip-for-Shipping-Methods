@@ -16,7 +16,8 @@ This code adds a tooltip next to each shipping option in the WooCommerce checkou
 
 ## Screenshot
 
-![Tooltip Example](WooCommerce-Tooltip-for-Shipping-Methods-screenhot.png)
+<img src="WooCommerce-Tooltip-for-Shipping-Methods-screenhot.png" width="400"/>
+
 
 
 
